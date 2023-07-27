@@ -79,6 +79,29 @@ p {
     margin-left: 20px;
 }
 
+/* Changed classes to ids from line 141 to line 193 and reoganized order of styling */
+/* Consolidated 3 seperately defined styling sections into 1 */
+#content section {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* Consolidated 3 seperately defined styling sections into 1 */
+#content img {
+    max-height: 200px;
+}
+
+/* Consolidated 3 seperately defined styling sections into 1 */
+#content h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* Changed classes to ids from lines 93 to 139 and reoganized order of styling */
 #benefits {
     margin-right: 20px;
     padding: 20px;
@@ -90,108 +113,23 @@ p {
     background-color: #2589bd;
 }
 
-/* Changed classes to ids from line 141 to line 193 and reoganized order of styling */
-#search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-#search-engine-optimization img {
-    max-height: 200px;
-}
-
-#search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-#online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-#online-reputation-management img {
-    max-height: 200px;
-}
-
-#online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-#social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-#social-media-marketing img {
-    max-height: 200px;
-}
-
-#social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-/* Changed classes to ids from lines 93 to 139 and reoganized order of styling */
-#benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-#benefit-lead h3 {
+/* Consolidated 3 seperately defined styles into one */
+#benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-#benefit-lead img {
+/* Consolidated 3 seperately defined styles into one */
+#benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-#benefit-brand {
+/* Consolidated 3 seperately defined styles into one */
+#benefits section {
     margin-bottom: 32px;
     color: #ffffff;
-}
-
-#benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-#benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-#benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-#benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-#benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
 }
 
 /* Changed footer class to id */
