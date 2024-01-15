@@ -9,7 +9,7 @@ The challenge called for HTML and CSS code refactoring, where the main focus was
 
 The website can be accessed [here]().
 
-![Full image of website.](./Assets/01-html-css-git-homework-demo.png)
+![Full image of website.](./assets/images/01-html-css-git-homework-demo.png)
 
 ## Steps Taken to Promote Accessibility
 
