@@ -7,7 +7,7 @@ The challenge called for HTML and CSS code refactoring, where the main focus was
 
 ## Usage
 
-The website can be accessed [here]().
+The website can be accessed [here](https://bhansi.github.io/HTML-CSS-Refactor/).
 
 ![Full image of website.](./assets/images/01-html-css-git-homework-demo.png)
 
